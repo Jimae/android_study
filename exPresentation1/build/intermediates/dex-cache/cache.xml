@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Master\AndroidStudioProjects\Presentation1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Master\AndroidStudioProjects\Presentation1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d4d6d9c9a9a7bb9cb7ff1ee30a7f2bbf77e19297\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Master\.android\build-cache\dde9d988c5a826b57c54d3935d509261968637e9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Master\AndroidStudioProjects\Presentation1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_06f8df2c8730944a2d0b9895d9d44aa1a9ff8aeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Master\.android\build-cache\b9aa25d8fae2770e8c2de4c3963358f5afe6f8ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Master\AndroidStudioProjects\Presentation1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5694f67e15d0cfc8027e21d3716b88c7646559c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Master\AndroidStudioProjects\Presentation1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7253d6af3ed7cc36b28b21659be53c3c54b0d97">
+        <dex dex="C:\Users\Master\AndroidStudioProjects\Presentation1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6a4547c012e635171b7a3587aeabfe65f1495ef7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Master\.android\build-cache\1d50caafd5625c8364ad08be56a4b330dda82a7a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Master\AndroidStudioProjects\Presentation1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c71a447b24602c01ec60aff6a0b8b9a0c2ced1da\classes.dex" />
+    </item>
+
+</items>
